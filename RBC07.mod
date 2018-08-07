@@ -4,7 +4,7 @@
 % Codigo elaborado por: Carlos Rojas Quiroz
 %--------------------------------------------------------------------------
 
-var y c innv g lab kap r w z;
+var y c innv g lab kap r w q z;
 predetermined_variables kap;
 varexo e_z e_g;
 parameters alpha delta betta theta psi rho_z rho_g 
@@ -12,7 +12,7 @@ z_ss lab_ss r_ss  kap_ss w_ss y_ss c_ss inv_ss q_ss g_ss C_Y I_Y G_Y;
 
 alpha  = 0.650;
 delta  = 0.025;
-betta = 0.99;
+betta  = 0.99;
 theta  = 1/2.75;
 psi    = 2.00;
 rho_z  = 0.919919;
