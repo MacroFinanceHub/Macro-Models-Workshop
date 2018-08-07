@@ -4,7 +4,7 @@
 % Codigo elaborado por: Carlos Rojas Quiroz
 %--------------------------------------------------------------------------
 
-var y c innv g lab kap r w z u;
+var y c innv g lab kap r w u z;
 predetermined_variables kap;
 varexo e_z e_g;
 parameters alpha delta betta theta eta rho_z rho_g
