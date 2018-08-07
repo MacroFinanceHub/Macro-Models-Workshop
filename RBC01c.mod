@@ -1,6 +1,5 @@
 %--------------------------------------------------------------------------
 % Modelo RBC basico loglinealizado (manualmente)
-% Codigo que describe un modelo RBC basico loglinealizado
 % La funcion de utilidad corresponde a la forma logaritmica 
 % Codigo elaborado por: Carlos Rojas Quiroz
 %--------------------------------------------------------------------------
