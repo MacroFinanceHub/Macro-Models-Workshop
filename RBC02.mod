@@ -1,6 +1,5 @@
 %--------------------------------------------------------------------------
-% Modelo RBC basico loglinealizado
-% Codigo que describe un modelo RBC basico loglinealizado
+% Modelo RBC basico
 % La funcion de utilidad corresponde a la forma GHH
 % Codigo elaborado por: Carlos Rojas Quiroz
 %--------------------------------------------------------------------------
